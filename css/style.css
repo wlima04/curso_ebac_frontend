@@ -48,3 +48,12 @@ form button {
 form button:hover {
     opacity: 0.8;
 }
+
+#res {
+    height: 50px;
+    color: #EFD81D;
+    margin-top: 10px;
+    padding-top: 15px;
+    background-color: black;
+    text-align: center;
+}
