@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 150px;
+}
+
+#inptText{
+    margin: 15px 15px 0px 0px;
+    padding: 5px;
+    height: 40px;
+    font-size: 12pt;
+}
+
+#btn-adicionar{
+    height: 40px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#lista {
+    margin-top: 15px;
+    text-align: center;
+}
