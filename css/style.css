@@ -13,7 +13,7 @@
 }
 
 #inptText{
-    margin: 15px 15px 0px 0px;
+    margin: 30px 15px 0px 0px;
     padding: 5px;
     height: 40px;
     font-size: 12pt;
@@ -23,9 +23,19 @@
     height: 40px;
     padding: 10px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 #lista {
     margin-top: 15px;
     text-align: center;
+}
+
+ul li{
+    cursor: pointer;
+}
+
+.tarefa-concluida{
+    text-decoration: line-through;
+    color: rgba(14, 155, 14, 0.836);
 }
